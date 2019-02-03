@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Frequency value="690000">
+  </Frequency>
+  <IsShowTitle value="True">
+  </IsShowTitle>
+  <IsShowDescription value="True">
+  </IsShowDescription>
+  <IsShowPubDate value="True">
+  </IsShowPubDate>
+  <IsShowWebBrowser value="false">
+  </IsShowWebBrowser>
+</Settings>
